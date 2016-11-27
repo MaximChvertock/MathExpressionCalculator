@@ -1,7 +1,5 @@
 package by.chvertock.calculator;
 
-// commit with .gitignore111111111   last
-
 final class Operators {
     private Operators() {
         /*NOP*/
