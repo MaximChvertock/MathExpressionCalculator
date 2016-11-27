@@ -1,9 +1,6 @@
 package by.chvertock.calculator;
 
-// test commit
-// test commit
-// test commit
-// test commit
+// test commit by pull request
 
 final class Operators {
     private Operators() {
