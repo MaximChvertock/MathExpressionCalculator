@@ -1,6 +1,6 @@
 package by.chvertock.calculator;
 
-// test commit by pull request
+// commit with .gitignore111111111
 
 final class Operators {
     private Operators() {
